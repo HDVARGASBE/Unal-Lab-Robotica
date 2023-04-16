@@ -3,7 +3,10 @@ Laborarorios de Robotica de  Universidad Nacional de colombia
 -Hector Daniel Vargas
 -
 -
+
 ##Entradas y salidas 
+
+
 En esta ocaccion se nos pide  configurar diferentes rutinas condicionadas a diferentes botones, los cuales se consideran salidas y entradas digitales.
 Como salida digital Configuraremos un led que indicara si una rutina esta funcionando, como entradas configuraremos dos botones que nos ejecutaran una rutina para llevarlo a una posicion que nos permita manipular la herramienta y otra rutina en la que escriba nuestras iniciales.
 Para esto se crean previamente las rutinas llamadas 

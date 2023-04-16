@@ -26,13 +26,13 @@ Ahora se configurara las salidas como ESCOUT para indicar cuando la rutina de es
 
 Se podran visualizar todas las entradas y salidas configuradas en un panel de entradas como se ve en la siguiente imagen 
 
-<img src="Images/IOScreen2.png"  width="530" height="300">
+<img src="Images/IOScreen2.png"  width="330" height="300">
 
 ## Implementacion en el codigo
 
 Para finalizar se simulan en incluyen en el main usando if para verificar el estado de las entradas-
 
-<img src="Images/Main.png"  width="530" height="300">
+<img src="Images/Main.png"  width="330" height="300">
 
 Este proceso se simula para verificar que cumpla las ordenes esperadas. El resultado lo podemos ver en el video anexo. 
 

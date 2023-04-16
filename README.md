@@ -4,7 +4,7 @@ Laborarorios de Robotica de  Universidad Nacional de colombia
 -
 -
 
-##Entradas y salidas 
+## Entradas y salidas 
 
 
 En esta ocaccion se nos pide  configurar diferentes rutinas condicionadas a diferentes botones, los cuales se consideran salidas y entradas digitales.
@@ -14,7 +14,9 @@ Para esto se crean previamente las rutinas llamadas
 -escritura;
 Cada una de estas sera accionada por una entrada
 
-###Configuracion de entrada y salidas
+### Configuracion de entrada y salidas
+
+
 Para la configuracion de entrada es necesario crear nuevas entradas como  que en nuestro caso se llamaran escrIn (la cual estara asociada a DI_0)  y por otro lado MantenIn (la cual estara asosiada a la entrada DI_1). Esto lo podemos Cofiguarar en la siguiente ventana en roboEstudio.
 
 -poner imagen
@@ -25,7 +27,12 @@ Se podran visualizar todas las entradas y salidas configuradas en un panel de en
 
 - insertar imagen 
 
+## Implementacion en el codigo
+
 Para finalizar se simulan en incluyen en el main usando if para verificar el estado de las entradas-
 
 - Poner imagen del main 
+
+Este proceso se simula para verificar que cumpla las ordenes esperadas. El resultado lo podemos ver en el video anexo. 
+
 

@@ -36,4 +36,6 @@ Para finalizar se simulan en incluyen en el main usando if para verificar el est
 
 Este proceso se simula para verificar que cumpla las ordenes esperadas. El resultado lo podemos ver en el video anexo. 
 
+## Resultado
 
+- [Ver video del resultado](VideoLAB2.mp4)

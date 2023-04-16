@@ -26,7 +26,7 @@ Ahora se configurara las salidas como ESCOUT para indicar cuando la rutina de es
 
 Se podran visualizar todas las entradas y salidas configuradas en un panel de entradas como se ve en la siguiente imagen 
 
-<img src="-Images/IOScreen2.png"  width="530" height="300">
+<img src="Images/IOScreen2.png"  width="530" height="300">
 
 ## Implementacion en el codigo
 
